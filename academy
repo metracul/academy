@@ -1,0 +1,27 @@
+<footer>
+  <div>
+    <div>
+      <div>
+        <img decoding="async" src="https://i.postimg.cc/bJptxPg6/transformed.png" alt="Logo" width="250">
+      </div>
+      <div class="footer-columns">
+        <div class="footer-column">
+          <h3>О нас</h3>
+          <p>
+            Пока дети строят свои собственные миры из кубиков LEGO, мы играем свою роль в том, чтобы оказывать положительное влияние на мир, в котором они живут сегодня и который унаследуют в будущем.
+          </p>
+        </div>
+        <div class="footer-column">
+          <h3>Свяжитесь с нами</h3>
+          <p>
+            Если вы заинтересованы в работе со мной или просто хотите поздороваться, просто напишите по электронной почте.
+            <br><strong>Email: <a href="#">contact@mail.com</a></strong>
+          </p>
+          </div>
+      </div>
+    </div>
+    <center>
+      <small>Copyright &copy; 2025</small>
+    </center>
+  </div>
+</footer>
